@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **MERN,**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **lakindu.nethmi@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny and Joyful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
