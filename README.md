@@ -2,7 +2,7 @@
 <h1 align="center">Hello There 👋, I'm Lakindu</h1>
 <h3 align="center">A passionate undergraduate web developer from Sri Lanka</h3>
 
-<img align="center" alt="Coding" width="500" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
+<img align="left" alt="Coding" width="500" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakineth&label=Profile%20views&color=0e75b6&style=flat" alt="lakineth" /> </p>
 
