@@ -2,7 +2,7 @@
 <h1 align="center">Hello There 👋, I'm Lakindu</h1>
 <h3 align="center">A passionate undergraduate software developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="500" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" />
+<img align="right" alt="Coding" width="500" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakineth&label=Profile%20views&color=0e75b6&style=flat" alt="lakineth" /> </p>
 
