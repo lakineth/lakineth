@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Furny-Online-Furniture-Store**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **MERN**
 
