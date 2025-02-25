@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGLpM_m3RA/yC-upCI-5-rc2KHQITVwDQ/view?utm_content=DAGLpM_m3RA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d8f9fa349" width="1000px"/>
+<img src="https://drive.google.com/file/d/1NGsGG5K5v5EiiU8xe-Rgxq6u0NqYCeAM/view?usp=sharing"  />
 <h1 align="center">Hello There 👋, I'm Lakindu</h1>
 <h3 align="center">A passionate Graduate Software Engineer from Sri Lanka</h3>
 
