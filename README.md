@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1NGsGG5K5v5EiiU8xe-Rgxq6u0NqYCeAM/view?usp=sharing"  />
+<img src="https://github.com/lakineth/lakineth/blob/image/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png"  />
 <h1 align="center">Hello There 👋, I'm Lakindu</h1>
 <h3 align="center">A passionate Graduate Software Engineer from Sri Lanka</h3>
 
