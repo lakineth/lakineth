@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakineth&label=Profile%20views&color=0e75b6&style=flat" alt="lakineth" /> </p>
 
-- 🔭 I’m currently working on **Furny-Online-Furniture-Store**
+- 🔭 I’m currently working on **Fiverr as a Developer**
 
 - 🌱 I’m currently learning **Laravel**
 
