@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakineth&show_icons=true&locale=en" alt="lakineth" /></p>
 
-<p><img align="center" src="" alt="lakineth" /></p>
+
