@@ -1,6 +1,6 @@
 <img src="https://github.com/lakineth/lakineth/blob/image/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png"  />
 <h1 align="center">Hello There 👋, I'm Lakindu</h1>
-<h3 align="center">A passionate Graduate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Graduate Tech enthusiast from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="500" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" />
 
